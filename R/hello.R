@@ -34,4 +34,5 @@ hello <- function() {
 #' @examples
 add2 <- function(n){
   n = n+2
+  print(n)
 }
